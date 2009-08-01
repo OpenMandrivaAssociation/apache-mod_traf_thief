@@ -6,7 +6,7 @@
 Summary:	DSO module for the apache web server
 Name:		apache-%{mod_name}
 Version:	0.01
-Release:	%mkrel 10
+Release:	%mkrel 11
 Group:		System/Servers
 License:	BSD-like
 URL:		http://web.god.net.ru/projects/mod_traf_thief/
