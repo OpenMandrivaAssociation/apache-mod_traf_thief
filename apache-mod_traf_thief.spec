@@ -9,7 +9,7 @@ Version:	0.01
 Release:	16
 Group:		System/Servers
 License:	BSD-like
-URL:		http://web.god.net.ru/projects/mod_traf_thief/
+URL:		https://web.god.net.ru/projects/mod_traf_thief/
 Source0: 	%{mod_name}-%{version}.tar.bz2
 Source1:	%{mod_conf}.bz2
 Requires(pre): rpm-helper
